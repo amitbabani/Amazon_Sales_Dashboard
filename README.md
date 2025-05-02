@@ -18,8 +18,10 @@ This dashboard was designed to provide actionable insights for stakeholders and 
 - **Trend Analysis Chart** by date & month
 - **Slicer Filters** to switch views by time, product, category, and sales
 
+## 📄 Measures, Dax Queries and Filters
+- **Measures** - All_Sale, Filter_Sale, Order_Count, Return_units, Sale_Amount, Sale_units, SaleOn, SaleOn2, Average Ratings, Reviews, New Table-Sales_Option
+- **Slicers** - Category, Date-Range
 ---
-
 ## 📄 Dashboard Pages
 
 1. **Overview** – Quick summary of KPIs and overall sales trends
