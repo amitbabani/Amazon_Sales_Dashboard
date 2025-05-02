@@ -24,7 +24,7 @@ This dashboard was designed to provide actionable insights for stakeholders and 
 
 1. **Overview** – Quick summary of KPIs and overall sales trends
 2. **Product** – Deep dive into product category performance
-3. **Product Overview** – Individual product analysis with demographics
+3. **Product view** – Individual product analysis with demographics
 4. **External** - **Product Tooltip** - Hidden
 
 ---
@@ -46,4 +46,12 @@ This dashboard was designed to provide actionable insights for stakeholders and 
 └── 🗜️ Drive Link for Complete Dashboard - https://drive.google.com/file/d/1SFf0QFynapOFid_eyCOrXTAThOZnIG_j/view?usp=sharing
 
 Reference taken from youtube - https://www.youtube.com/@The-Developer-BI/videos
+
+## 📁 Screen Shots
+Overview Page - ![image](https://github.com/user-attachments/assets/a99b98b1-f01d-47be-9264-6417c297ac3d)
+Product Page - ![image](https://github.com/user-attachments/assets/acb94834-8547-499a-b0af-d4dc6143de57)
+Product view Page - ![image](https://github.com/user-attachments/assets/4db33bb3-662d-4dc6-9986-da41776c5a8d)
+
+
+
 
